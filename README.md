@@ -1,2 +1,5 @@
 # hello-world
-just another reposity
+
+Hi humans!
+
+i am interested in code.
